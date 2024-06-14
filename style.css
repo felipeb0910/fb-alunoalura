@@ -1,0 +1,9 @@
+let palavra;
+
+function setup() {
+  createCanvas(400, 400);
+
+  palavra = palavraAleatoria();
+  
+}
+
